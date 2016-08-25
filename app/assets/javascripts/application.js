@@ -1,5 +1,4 @@
  //= require jquery
  //= require jquery_ujs
- //= require_tree .
+ //= require bundle
 
-console.log('inside application.js')
